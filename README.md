@@ -4,11 +4,11 @@ This is a console-based C++ project for managing Human Resource operations. Deve
 
 Features:
 
--Add, update, and delete employee records  
--Display employee details  
--Manage salary and leave records  
--Search functionality  
--Simple text-based menu navigation  
+- Add, update, and delete employee records  
+- Display employee details  
+- Manage salary and leave records  
+- Search functionality  
+- Simple text-based menu navigation  
 
 Concepts Used:
 
